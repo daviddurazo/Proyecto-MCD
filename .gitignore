@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+#Data
+data/bronze/*
+!data/bronze/.gitkeep
+
 # C extensions
 *.so
 
