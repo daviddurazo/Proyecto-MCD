@@ -1,4 +1,4 @@
-Como usar datasets.csv
+# Como usar datasets.csv
 
 Si encuentras un dataset, recopila la siguiente informacion:
 
@@ -16,7 +16,7 @@ owner,
 status : {proposed, approved, rejected}
 notes
 
-# Se manejaran este tipo de estados para el dataset encontrado
+Se manejaran este tipo de estados para el dataset encontrado
 
 Ejemplo:
 
